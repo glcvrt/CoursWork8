@@ -1,0 +1,65 @@
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$K18hKLTnTD4YTI2znDFOgB$2fAOdjfAVICCmCr0l33lThTfHiJbV0yg5uuF1U4kpHo=",
+      "last_login": "2023-08-27T11:08:19Z",
+      "is_superuser": true,
+      "first_name": "admin",
+      "last_name": "skypro",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-08-27T10:43:40Z",
+      "email": "burykh_2000@mail.ru",
+      "phone": null,
+      "city": null,
+      "avatar": "",
+      "chat_id": "5111843782",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$ZOgha44xhS4pN4JGo6D1nf$ByA6KtzOvRqmjaqMA8tOu8fp92LmiwzXY5s2Kf3E5jE=",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "test",
+      "last_name": "skypro",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-08-27T10:44:01Z",
+      "email": "test@sky.com",
+      "phone": null,
+      "city": null,
+      "avatar": "",
+      "chat_id": "5111843782",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$DOSvA2t0diYN2l8JuFsP8z$a/GGWdYcDInK9c4o0QC397KiBJ5m17kf9HydZETkaAw=",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "test",
+      "last_name": "test",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-08-27T10:44:41Z",
+      "email": "sky@pro.com",
+      "phone": null,
+      "city": null,
+      "avatar": "",
+      "chat_id": "5111843782",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

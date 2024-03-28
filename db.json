@@ -1,0 +1,50 @@
+[
+  {
+    "model": "habit_tracker.habit",
+    "pk": 1,
+    "fields": {
+      "user": 2,
+      "place": "home",
+      "time": "14:00:00",
+      "action": "go in for sports",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency": 1,
+      "reward": null,
+      "execution_time": "00:02:00",
+      "is_publication": true
+    }
+  },
+  {
+    "model": "habit_tracker.habit",
+    "pk": 2,
+    "fields": {
+      "user": 3,
+      "place": "garden",
+      "time": "13:00:00",
+      "action": "to water flowers",
+      "is_pleasant": true,
+      "related_habit": null,
+      "frequency": 1,
+      "reward": null,
+      "execution_time": "00:02:00",
+      "is_publication": true
+    }
+  },
+  {
+    "model": "habit_tracker.habit",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "place": "home",
+      "time": "17:00:00",
+      "action": "to clean the room",
+      "is_pleasant": true,
+      "related_habit": null,
+      "frequency": 1,
+      "reward": null,
+      "execution_time": "00:02:00",
+      "is_publication": false
+    }
+  }
+]
